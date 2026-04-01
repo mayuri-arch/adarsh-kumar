@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Adarsh Kumar</title>
+  <title>Adarsh Kumar — Founder & CEO, Avya Enterprises</title>
+<meta name="description" content="Contact Adarsh Kumar, Founder & CEO of Avya Enterprises. Reach via WhatsApp, Email or Instagram."/>
+<meta name="keywords" content="Adarsh Kumar, Avya Enterprises, Founder CEO, Gurugram, contact"/>
+<meta name="author" content="Adarsh Kumar"/>
+<meta property="og:title" content="Adarsh Kumar — Founder & CEO"/>
+<meta property="og:description" content="Contact Adarsh Kumar, Founder & CEO of Avya Enterprises"/>
+<meta property="og:url" content="https://adarsh-kumar.vercel.app"/>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Raleway:wght@200;300;400;500&display=swap" rel="stylesheet"/>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
