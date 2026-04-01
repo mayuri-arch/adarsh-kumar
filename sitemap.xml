@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://adarsh-kumar.vercel.app/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+```
+→ Tap **Commit changes**
+
+---
+
+## 🔧 Step 3 — Add `robots.txt`
+
+Tap **Add file** → **Create new file** → name it `robots.txt` → paste:
+```
+User-agent: *
+Allow: /
+Sitemap: https://adarsh-kumar.vercel.app/sitemap.xml
